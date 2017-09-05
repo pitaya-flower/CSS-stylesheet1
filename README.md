@@ -1,4 +1,4 @@
-# 块级元素和行内元素分别有哪些？动手测试并列出4条以上的特性区别
+# 块级元素和行内元素分别有哪些？
 ```
 块级元素：div h1 h2 h3 h4 h5 h6 p hr form ul dl ol pre table li dd dt tr td th 
 行内元素：em strong span a br img button input label select textare code script
